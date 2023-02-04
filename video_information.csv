@@ -1,0 +1,3 @@
+Title,Description,tag,category,color,Date,color_text,font_name
+git status,Explain git status,"git,status",27,"(255, 255, 255)",2022-07-24T19:20+01:00,#000000,arial
+git add [file-name.txt],Explain git add [file-name.txt],"git,add",27,"(255, 255, 255)",2022-07-24T20:20+01:00,#000000,AGENCYB

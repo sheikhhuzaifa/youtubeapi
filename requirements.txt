@@ -1,0 +1,13 @@
+opencv-python
+Pillow
+pandas
+numpy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+random2
+times
+oauth2client
+subprocess32
+gTTS
+moviepy

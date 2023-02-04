@@ -1,0 +1,3 @@
+Title,Description,Example
+git Command,git status:    Check status,git branch:    List branches (the asterisk denotes the current branch)
+git Command,git add [file-name.txt]:    Add a file to the staging area,git branch -a:   List all branches (local and remote)
